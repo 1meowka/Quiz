@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <!-- res/values/strings.xml -->
+    <string name="question_placeholder">Вопрос?</string>
+    <string name="option_1">Вариант 1</string>
+    <string name="option_2">Вариант 2</string>
+    <string name="option_3">Вариант 3</string>
+    <string name="option_4">Вариант 4</string>
+    <string name="score_placeholder">Счёт: 0/10</string>
+
+    <!-- Текст счёта -->
+    <string name="score_text">Счёт: %1$d из %2$d</string>
+
+    <!-- Ответы -->
+    <string name="answer_correct">Правильно!</string>
+    <string name="answer_incorrect">Неправильно!</string>
+
+    <!-- Итоговые сообщения -->
+    <string name="result_excellent">Отлично! Ты гуру тренажёрки! 💪</string>
+    <string name="result_good">Хорошо! Ты разбираешься в теме!</string>
+    <string name="result_ok">Неплохо, но есть куда расти!</string>
+    <string name="result_poor">Пора пересмотреть базу! 🏋️‍♂️</string>
+
+    <!-- Итоговый результат -->
+    <string name="result_summary">Твой результат: %1$d из %2$d\n%3$s</string>
+    <string name="restart">Ещё раз</string>
+</resources>
